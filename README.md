@@ -1,4 +1,6 @@
 ## Hi there 👋
+Atualmente estou aprendendo engenharia elétrica por meio de um curso de graduação e data analytics por meio de um curso profissionalizante.
+Tenho interesse em colaborar em projetos envolvendo Data Science e Machine Learning.
 
 <!--
 **Beroradin/Beroradin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
